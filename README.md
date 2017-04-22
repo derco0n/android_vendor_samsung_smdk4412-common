@@ -1,0 +1,1 @@
+# android_vendor_samsung_smdk4412-common
